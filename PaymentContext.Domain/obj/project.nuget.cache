@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2u4xpQ4LbIobEx5NhtS8JW8dmZh50z4AueazBapRpBXnSDsAQ8gktoeofAMphQHe3WuU3RlbE8EY4VPj0NZnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\osmar\\Desktop\\Learning\\Balta.io\\Domínios Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osmar\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
